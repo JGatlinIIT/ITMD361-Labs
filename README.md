@@ -1,3 +1,3 @@
 # ITMD361-Labs
 
-<h1>Jeremiah Gatlin's Page</h1>
+<h2>Jeremiah Gatlin's Page</h2>
